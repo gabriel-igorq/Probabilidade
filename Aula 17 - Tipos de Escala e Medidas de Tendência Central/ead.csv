@@ -1,0 +1,885 @@
+id,industry,country,city
+10001,Agriculture,United States,Davis
+10002,Arts & Education,Australia,Perth
+10003,Arts & Education,Austria,Lieboch
+10004,Arts & Education,Brazil,São Paulo
+10005,Arts & Education,Canada,Georgetown
+10006,Arts & Education,Canada,Hamilton
+10007,Arts & Education,Canada,Milton
+10008,Arts & Education,Canada,Mississauga
+10009,Arts & Education,Canada,Regina
+10010,Arts & Education,Canada,Toronto
+10011,Arts & Education,Canada,Toronto
+10012,Arts & Education,Canada,Toronto
+10013,Arts & Education,Chile,Santiago
+10014,Arts & Education,France,Bagneux
+10015,Arts & Education,Germany,Bad Nauheim
+10016,Arts & Education,Greece,Thessaloniki
+10017,Arts & Education,Hong Kong,Prince Edward
+10018,Arts & Education,Hong Kong,Hong Kong
+10019,Arts & Education,Japan,Bunkyo-Ku
+10020,Arts & Education,Malaysia,Subang Jaya
+10021,Arts & Education,Nigeria,Ajah
+10022,Arts & Education,Romania,Bucharest
+10023,Arts & Education,Romania,Cluj-Napoca
+10024,Arts & Education,Singapore,Singapore
+10025,Arts & Education,Singapore,Singapore
+10026,Arts & Education,Singapore,Singapore
+10027,Arts & Education,Singapore,Singapore
+10028,Arts & Education,South Africa,Cape Town
+10029,Arts & Education,Spain,A Coruña
+10030,Arts & Education,Spain,Galapagar
+10031,Arts & Education,United Kingdom,London
+10032,Arts & Education,United Kingdom,London
+10033,Arts & Education,United Kingdom,Thames Ditton
+10034,Arts & Education,United Kingdom,Warrington
+10035,Arts & Education,United States,Albany
+10036,Arts & Education,United States,Ashburn
+10037,Arts & Education,United States,Barrington
+10038,Arts & Education,United States,Bethany
+10039,Arts & Education,United States,Bloomfield
+10040,Arts & Education,United States,Boston
+10041,Arts & Education,United States,Brookline
+10042,Arts & Education,United States,Chicago
+10043,Arts & Education,United States,Darien
+10044,Arts & Education,United States,Denver
+10045,Arts & Education,United States,Dublin
+10046,Arts & Education,United States,Foster City
+10047,Arts & Education,United States,Foster City
+10048,Arts & Education,United States,Grafton
+10049,Arts & Education,United States,Lombard
+10050,Arts & Education,United States,Los Angeles
+10051,Arts & Education,United States,Middletown
+10052,Arts & Education,United States,New York
+10053,Arts & Education,United States,New York
+10054,Arts & Education,United States,New York
+10055,Arts & Education,United States,Newhall
+10056,Arts & Education,United States,Portland
+10057,Arts & Education,United States,Princeton
+10058,Arts & Education,United States,White Plains
+10059,Construction,Hong Kong,Tsim Sha Tsui East
+10060,Construction,New Zealand,Auckland
+10061,Construction,United States,Cedar Park
+10062,Energy & Transport,Australia,South Melbourne
+10063,Energy & Transport,Austria,Vienna
+10064,Energy & Transport,Canada,Mississauga
+10065,Energy & Transport,Netherlands,Amersfoort
+10066,Energy & Transport,Singapore,Singapore
+10067,Energy & Transport,Singapore,Singapore
+10068,Energy & Transport,South Africa,Johannesburg
+10069,Energy & Transport,South Africa,St Francis Bay
+10070,Energy & Transport,United Kingdom,London
+10071,Energy & Transport,United States,Austin
+10072,Energy & Transport,United States,Broomall
+10073,Energy & Transport,United States,Houston
+10074,Energy & Transport,United States,Irvine
+10075,Energy & Transport,United States,Piscataway
+10076,Energy & Transport,United States,San Francisco
+10077,Energy & Transport,United States,San Mateo
+10078,Engineering,Brazil,Natal
+10079,Engineering,Canada,Brossard
+10080,Engineering,Canada,Edmonton
+10081,Engineering,Canada,Montreal
+10082,Engineering,Canada,Saint Hubert
+10083,Engineering,Canada,Toronto
+10084,Engineering,Canada,Vancouver
+10085,Engineering,Guatemala,Guatemala
+10086,Engineering,Hong Kong,Hong Kong
+10087,Engineering,Hong Kong,Hong Kong
+10088,Engineering,Hong Kong,Hung Hom
+10089,Engineering,India,Bangalore
+10090,Engineering,India,Bangalore
+10091,Engineering,India,Bangalore
+10092,Engineering,India,Varanasi
+10093,Engineering,"Korea, Republic Of",Uiwang
+10094,Engineering,Malaysia,Klang
+10095,Engineering,Netherlands,S-Gravenhage
+10096,Engineering,Poland,Krakow
+10097,Engineering,Romania,Bucharest
+10098,Engineering,Singapore,Singapore
+10099,Engineering,Singapore,Singapore
+10100,Engineering,Singapore,Singapore
+10101,Engineering,Singapore,Singapore
+10102,Engineering,Singapore,Singapore
+10103,Engineering,Singapore,Singapore
+10104,Engineering,Spain,Madrid
+10105,Engineering,Switzerland,Zürich
+10106,Engineering,United Kingdom,Chatham
+10107,Engineering,United Kingdom,London
+10108,Engineering,United Kingdom,London
+10109,Engineering,United States,Andover
+10110,Engineering,United States,Austin
+10111,Engineering,United States,Bartlett
+10112,Engineering,United States,Bethlehem
+10113,Engineering,United States,Brooklyn
+10114,Engineering,United States,Burlington
+10115,Engineering,United States,Chapel Hill
+10116,Engineering,United States,Chicopee
+10117,Engineering,United States,Coleraine
+10118,Engineering,United States,Dearborn
+10119,Engineering,United States,Dorchester
+10120,Engineering,United States,Dublin
+10121,Engineering,United States,East Hanover
+10122,Engineering,United States,East Hartford
+10123,Engineering,United States,Ellicott City
+10124,Engineering,United States,Farmington
+10125,Engineering,United States,Foster City
+10126,Engineering,United States,Fremont
+10127,Engineering,United States,Houston
+10128,Engineering,United States,Irvine
+10129,Engineering,United States,Littleton
+10130,Engineering,United States,Louisville
+10131,Engineering,United States,Malden
+10132,Engineering,United States,Minden
+10133,Engineering,United States,Oviedo
+10134,Engineering,United States,Parsippany
+10135,Engineering,United States,Ronkonkoma
+10136,Engineering,United States,Salt Lake City
+10137,Engineering,United States,San Jose
+10138,Engineering,United States,San Mateo
+10139,Engineering,United States,Santa Ana
+10140,Engineering,United States,South Planfield
+10141,Engineering,United States,Sun Valley
+10142,Engineering,United States,Wakefield
+10143,Engineering,"Venezuela, Bolivarian Republic Of",Caracas
+10144,Finance & Insurance,Australia,Melbourne
+10145,Finance & Insurance,Australia,Sydney
+10146,Finance & Insurance,Australia,Sydney
+10147,Finance & Insurance,Brazil,Sao Paulo
+10148,Finance & Insurance,Brazil,Sao Paulo
+10149,Finance & Insurance,Canada,Bradford
+10150,Finance & Insurance,Canada,Brampton
+10151,Finance & Insurance,Canada,Chambly
+10152,Finance & Insurance,Canada,Halifax
+10153,Finance & Insurance,Canada,Montreal
+10154,Finance & Insurance,Canada,Oakville
+10155,Finance & Insurance,Canada,South Lake Tahoe
+10156,Finance & Insurance,Canada,Toronto
+10157,Finance & Insurance,Canada,Toronto
+10158,Finance & Insurance,Germany,Wildeshausen
+10159,Finance & Insurance,Hong Kong,Hong Kong
+10160,Finance & Insurance,Hong Kong,Hong Kong
+10161,Finance & Insurance,Netherlands,Zwolle
+10162,Finance & Insurance,Peru,Los Olivos
+10163,Finance & Insurance,Singapore,Singapore
+10164,Finance & Insurance,Singapore,Singapore
+10165,Finance & Insurance,Singapore,Singapore
+10166,Finance & Insurance,Singapore,Singapore
+10167,Finance & Insurance,Singapore,Singapore
+10168,Finance & Insurance,Singapore,Singapore
+10169,Finance & Insurance,Spain,Elche
+10170,Finance & Insurance,Spain,Madrid
+10171,Finance & Insurance,Spain,Ponferrada
+10172,Finance & Insurance,United Kingdom,London
+10173,Finance & Insurance,United Kingdom,Mayfield
+10174,Finance & Insurance,United States,Ashburn
+10175,Finance & Insurance,United States,Austin
+10176,Finance & Insurance,United States,Birmingham
+10177,Finance & Insurance,United States,Bloomington
+10178,Finance & Insurance,United States,Bridgeport
+10179,Finance & Insurance,United States,Charlotte
+10180,Finance & Insurance,United States,Coram
+10181,Finance & Insurance,United States,Downers Grove
+10182,Finance & Insurance,United States,Edison
+10183,Finance & Insurance,United States,Florida
+10184,Finance & Insurance,United States,Freehold
+10185,Finance & Insurance,United States,Glastonbury
+10186,Finance & Insurance,United States,Jersey City
+10187,Finance & Insurance,United States,Johnscreek
+10188,Finance & Insurance,United States,Mansfield
+10189,Finance & Insurance,United States,Meriden
+10190,Finance & Insurance,United States,Mt Pleasant
+10191,Finance & Insurance,United States,Orlando
+10192,Finance & Insurance,United States,Phoenix
+10193,Finance & Insurance,United States,Princeton
+10194,Finance & Insurance,United States,Princeton
+10195,Finance & Insurance,United States,Seattle
+10196,Finance & Insurance,United States,Whippany
+10197,Finance & Insurance,United States,Woodbridge
+10198,Health,Belgium,Wilrijk
+10199,Health,Brazil,Juiz De Fora
+10200,Health,China,Chengdu
+10201,Health,Germany,Berlin
+10202,Health,Hong Kong,Hong Kong
+10203,Health,Hong Kong,Hung Hom
+10204,Health,Japan,Kyoto
+10205,Health,Singapore,Singapore
+10206,Health,Singapore,Singapore
+10207,Health,Singapore,Singapore
+10208,Health,Singapore,Singapore
+10209,Health,Singapore,Singapore
+10210,Health,Singapore,Singapore
+10211,Health,Spain,Madrid
+10212,Health,Switzerland,Geneva
+10213,Health,United Kingdom,Reading
+10214,Health,United Kingdom,Wednesbury
+10215,Health,United States,Albuquerque
+10216,Health,United States,Augusta
+10217,Health,United States,Boston
+10218,Health,United States,Brownwood
+10219,Health,United States,Closter
+10220,Health,United States,Davidson
+10221,Health,United States,Deerfield
+10222,Health,United States,Doral
+10223,Health,United States,Elk Grove
+10224,Health,United States,Elmont
+10225,Health,United States,Gainesville
+10226,Health,United States,Horseheads
+10227,Health,United States,Kenosha
+10228,Health,United States,Lebanon
+10229,Health,United States,Ledyard
+10230,Health,United States,Missouri City
+10231,Health,United States,Mount Prospect
+10232,Health,United States,Mt Pleasant
+10233,Health,United States,New Hampton
+10234,Health,United States,Newburyport
+10235,Health,United States,Newton
+10236,Health,United States,Oceanside
+10237,Health,United States,Palm Harbor
+10238,Health,United States,Portland
+10239,Health,United States,Portland
+10240,Health,United States,Portsmouth
+10241,Health,United States,Rockville
+10242,Health,United States,Saint Petersburg
+10243,Health,United States,San Diego
+10244,Health,United States,San Jose
+10245,Health,United States,Scituate
+10246,Health,United States,Scottsdale
+10247,Health,United States,Sharon
+10248,Health,United States,Sugar Land
+10249,Health,United States,West Hartford
+10250,Health,United States,Woodside
+10251,Hospitality,United States,Laguna Niguel
+10252,Hospitality,United States,Miami
+10253,Hospitality,United States,Ponchatoula
+10254,ICT,Australia,Buddina
+10255,ICT,Australia,Carlingford
+10256,ICT,Australia,Glen Waverley
+10257,ICT,Australia,Haberfield
+10258,ICT,Australia,Melbourne
+10259,ICT,Australia,Sydney
+10260,ICT,Australia,Sydney
+10261,ICT,Australia,Sydney
+10262,ICT,Belgium,Brussels
+10263,ICT,Brazil,Rio De Janeiro
+10264,ICT,Brazil,Sao Paulo
+10265,ICT,Brazil,Sao Paulo
+10266,ICT,Canada,Brampton
+10267,ICT,Canada,Calgary
+10268,ICT,Canada,Markham
+10269,ICT,Canada,New Westminster
+10270,ICT,Canada,Ottawa
+10271,ICT,Canada,St-Laurent
+10272,ICT,Canada,Victoria
+10273,ICT,Canada,Waterloo
+10274,ICT,Canada,Windsor
+10275,ICT,Croatia,Bestovije
+10276,ICT,Czech Republic,Praha 3
+10277,ICT,Denmark,Copenhagen
+10278,ICT,France,Sathonay Camp
+10279,ICT,France,Soissons
+10280,ICT,Germany,Düsseldorf
+10281,ICT,Hong Kong,Hong Kong
+10282,ICT,Hong Kong,Hong Kong
+10283,ICT,Hong Kong,Hong Kong
+10284,ICT,Hong Kong,Hong Kong
+10285,ICT,Hong Kong,Hong Kong
+10286,ICT,Hong Kong,Hong Kong
+10287,ICT,Hong Kong,Hong Kong
+10288,ICT,Hong Kong,N/A
+10289,ICT,Hong Kong,New Territory
+10290,ICT,Hong Kong,North Point
+10291,ICT,Hong Kong,Quarry Bay
+10292,ICT,Hong Kong,Sai Ying Pun
+10293,ICT,Hong Kong,Sheung Shui
+10294,ICT,Hong Kong,Tko  Hk
+10295,ICT,Hong Kong,Tuen Mun
+10296,ICT,Hungary,Budapest
+10297,ICT,India,Bangalore
+10298,ICT,India,Bangalore
+10299,ICT,India,Bangalore
+10300,ICT,India,Bangalore
+10301,ICT,India,Bangalore
+10302,ICT,India,Bangalore
+10303,ICT,India,Bangalore
+10304,ICT,Italy,Milano
+10305,ICT,Malta,Xemxija
+10306,ICT,Mexico,Mexico
+10307,ICT,New Zealand,Wellington
+10308,ICT,New Zealand,Wellington
+10309,ICT,Puerto Rico,Luquillo
+10310,ICT,Qatar,Doha
+10311,ICT,Singapore,Singapore
+10312,ICT,Singapore,Singapore
+10313,ICT,Singapore,Singapore
+10314,ICT,Singapore,Singapore
+10315,ICT,Singapore,Singapore
+10316,ICT,Singapore,Singapore
+10317,ICT,Singapore,Singapore
+10318,ICT,Singapore,Singapore
+10319,ICT,Singapore,Singapore
+10320,ICT,Singapore,Singapore
+10321,ICT,Singapore,Singapore
+10322,ICT,Singapore,Singapore
+10323,ICT,Spain,Alcobendas
+10324,ICT,Spain,Madrid
+10325,ICT,Switzerland,Colombier
+10326,ICT,Switzerland,Schaffhausen
+10327,ICT,Switzerland,Sigirino
+10328,ICT,"Taiwan, Province Of China",Taipei
+10329,ICT,United Arab Emirates,Abu Dhabi
+10330,ICT,United Arab Emirates,Abu Dhabi
+10331,ICT,United Kingdom,Llandudno
+10332,ICT,United Kingdom,London
+10333,ICT,United Kingdom,London
+10334,ICT,United Kingdom,London
+10335,ICT,United Kingdom,London
+10336,ICT,United Kingdom,Twickenham
+10337,ICT,United Kingdom,Uxbridge
+10338,ICT,United Kingdom,Wandsworth
+10339,ICT,United States,Aldie
+10340,ICT,United States,Alexandria
+10341,ICT,United States,Ann Arbor
+10342,ICT,United States,Arlington
+10343,ICT,United States,Atlanta
+10344,ICT,United States,Aurora
+10345,ICT,United States,Austin
+10346,ICT,United States,Austin
+10347,ICT,United States,Bear
+10348,ICT,United States,Bedford
+10349,ICT,United States,Bellingham
+10350,ICT,United States,Belmont
+10351,ICT,United States,Bend
+10352,ICT,United States,Beverly Hills
+10353,ICT,United States,Billerica
+10354,ICT,United States,Boston
+10355,ICT,United States,Boston
+10356,ICT,United States,Brooklyn
+10357,ICT,United States,Brownsville
+10358,ICT,United States,Cambridge
+10359,ICT,United States,Campbell
+10360,ICT,United States,Carrboro
+10361,ICT,United States,Cedar Park
+10362,ICT,United States,Charlotte
+10363,ICT,United States,Chicago
+10364,ICT,United States,Chicago
+10365,ICT,United States,Columbia
+10366,ICT,United States,Cumming
+10367,ICT,United States,Cupertino
+10368,ICT,United States,Denton
+10369,ICT,United States,Elk Grove
+10370,ICT,United States,Fairafx Station
+10371,ICT,United States,Fairfax Station
+10372,ICT,United States,Fayetteville
+10373,ICT,United States,Flushing
+10374,ICT,United States,Fort Mill
+10375,ICT,United States,Fremont
+10376,ICT,United States,Groton
+10377,ICT,United States,Harrison
+10378,ICT,United States,Hartford
+10379,ICT,United States,Hatboro
+10380,ICT,United States,Herndon
+10381,ICT,United States,Herndon
+10382,ICT,United States,Herndon
+10383,ICT,United States,Houston
+10384,ICT,United States,Irvine
+10385,ICT,United States,Irvine
+10386,ICT,United States,Irving
+10387,ICT,United States,Kennebunkport
+10388,ICT,United States,Lakeland
+10389,ICT,United States,Lawrenceville
+10390,ICT,United States,Long Beach
+10391,ICT,United States,Los Angeles
+10392,ICT,United States,Los Gatos
+10393,ICT,United States,Maple Grove
+10394,ICT,United States,Maryland Heights
+10395,ICT,United States,Mechanicsburg
+10396,ICT,United States,Menlo Park
+10397,ICT,United States,Menlo Park
+10398,ICT,United States,Meridian
+10399,ICT,United States,Monmouth Junction
+10400,ICT,United States,Montgomery
+10401,ICT,United States,Mountain View
+10402,ICT,United States,Nashua
+10403,ICT,United States,New York
+10404,ICT,United States,New York
+10405,ICT,United States,New York
+10406,ICT,United States,North Woodmere
+10407,ICT,United States,Oak Harbor
+10408,ICT,United States,Orlando
+10409,ICT,United States,Owings Mills
+10410,ICT,United States,Parkland
+10411,ICT,United States,Pawtucket
+10412,ICT,United States,Plano
+10413,ICT,United States,Plymouth Meeting
+10414,ICT,United States,Portola Valley
+10415,ICT,United States,Poway
+10416,ICT,United States,Princeton
+10417,ICT,United States,Quincy
+10418,ICT,United States,Roseville
+10419,ICT,United States,Sammamish
+10420,ICT,United States,San Francisco
+10421,ICT,United States,San Francisco
+10422,ICT,United States,San Jose
+10423,ICT,United States,Santa Clara
+10424,ICT,United States,Scotch Plains
+10425,ICT,United States,Shrewsbury
+10426,ICT,United States,Somerville
+10427,ICT,United States,Tigard
+10428,ICT,United States,Troy
+10429,ICT,United States,Troy
+10430,ICT,United States,Urbandale
+10431,ICT,United States,West Norriton
+10432,ICT,United States,Woburn
+10433,Legal Services,Canada,Toronto
+10434,Legal Services,United States,Charlestown
+10435,Legal Services,United States,Houston
+10436,Legal Services,United States,Sherborn
+10437,Manufacturing,China,Shanghai
+10438,Manufacturing,Germany,Halle
+10439,Manufacturing,Sudan,Cartama Estacion
+10440,Manufacturing,United States,Aurora
+10441,Manufacturing,United States,Ballston Lake
+10442,Manufacturing,United States,Chicago
+10443,Manufacturing,United States,Cincinnati
+10444,Manufacturing,United States,Mesa
+10445,Manufacturing,United States,Nanuet
+10446,Media & Marketing,Australia,Sydney
+10447,Media & Marketing,Brazil,Niteroi
+10448,Media & Marketing,Brazil,Rio De Janeiro
+10449,Media & Marketing,Brazil,Rio De Janeiro
+10450,Media & Marketing,Brazil,São Paulo
+10451,Media & Marketing,Brazil,São Paulo
+10452,Media & Marketing,Canada,Lethbridge
+10453,Media & Marketing,Canada,Saskatoon
+10454,Media & Marketing,France,Paris
+10455,Media & Marketing,Hong Kong,Hong Kong
+10456,Media & Marketing,Hong Kong,Hong Kong
+10457,Media & Marketing,Hong Kong,Hong Kong
+10458,Media & Marketing,Hong Kong,Hong Kong
+10459,Media & Marketing,Hong Kong,Hong Kong
+10460,Media & Marketing,Hong Kong,Sai Ying Pun
+10461,Media & Marketing,Hong Kong,"Shamshuipo, Kowloon"
+10462,Media & Marketing,Hungary,Debrecen
+10463,Media & Marketing,India,Hyderabad
+10464,Media & Marketing,Italy,Milan
+10465,Media & Marketing,Mexico,México
+10466,Media & Marketing,Netherlands,Leiden
+10467,Media & Marketing,Norway,Hjelset
+10468,Media & Marketing,Portugal,Odivelas
+10469,Media & Marketing,Singapore,Singapore
+10470,Media & Marketing,Singapore,Singapore
+10471,Media & Marketing,Singapore,Singapore
+10472,Media & Marketing,Singapore,Singapore
+10473,Media & Marketing,Singapore,Singapore
+10474,Media & Marketing,Singapore,Singapore
+10475,Media & Marketing,Singapore,Singapore
+10476,Media & Marketing,Singapore,Singapore
+10477,Media & Marketing,Singapore,Singapore
+10478,Media & Marketing,Singapore,Singapore
+10479,Media & Marketing,Singapore,Singapore
+10480,Media & Marketing,Singapore,Singapore
+10481,Media & Marketing,Spain,Madrid
+10482,Media & Marketing,Spain,Madrid
+10483,Media & Marketing,United Arab Emirates,Dubai
+10484,Media & Marketing,United Kingdom,"Chadwell Heath, Romford"
+10485,Media & Marketing,United Kingdom,London
+10486,Media & Marketing,United States,Arlington
+10487,Media & Marketing,United States,Austin
+10488,Media & Marketing,United States,Baltimore
+10489,Media & Marketing,United States,Bronx
+10490,Media & Marketing,United States,Chapel Hill
+10491,Media & Marketing,United States,Dallas
+10492,Media & Marketing,United States,Houston
+10493,Media & Marketing,United States,Irving
+10494,Media & Marketing,United States,Miami
+10495,Media & Marketing,United States,Miami
+10496,Media & Marketing,United States,Mount Vernon
+10497,Media & Marketing,United States,Nevada City
+10498,Media & Marketing,United States,New York
+10499,Media & Marketing,United States,New York
+10500,Media & Marketing,United States,New York
+10501,Media & Marketing,United States,Park Ridge
+10502,Media & Marketing,United States,Santa Monica
+10503,Media & Marketing,United States,Santa Monica
+10504,Media & Marketing,United States,Shorewood
+10505,Media & Marketing,United States,Springfield
+10506,Media & Marketing,United States,Sudbury
+10507,Media & Marketing,United States,Upland
+10508,Media & Marketing,United States,Waltham
+10509,Media & Marketing,United States,Washington
+10510,Media & Marketing,United States,Washington
+10511,Mining,Brazil,Sao Paulo
+10512,Mining,Germany,Magstadt
+10513,Mining,Singapore,Singapore
+10514,Mining,Singapore,Singapore
+10515,Mining,United Kingdom,London
+10516,Mining,United States,Cherry Hill
+10517,Mining,United States,Katy
+10518,Mining,United States,Salem
+10519,Other or Unknown,Australia,Adelaide
+10520,Other or Unknown,Australia,Bronte
+10521,Other or Unknown,Australia,Kellyville
+10522,Other or Unknown,Australia,Kogarah Bay
+10523,Other or Unknown,Australia,Logan
+10524,Other or Unknown,Australia,Manly
+10525,Other or Unknown,Australia,Melbourne
+10526,Other or Unknown,Australia,Melbourne
+10527,Other or Unknown,Australia,Melbourne
+10528,Other or Unknown,Australia,Melbourne
+10529,Other or Unknown,Australia,Redcliffe
+10530,Other or Unknown,Australia,Sydney
+10531,Other or Unknown,Austria,Vienna
+10532,Other or Unknown,Belgium,Brussels
+10533,Other or Unknown,Belgium,Burst
+10534,Other or Unknown,Belgium,Dinant
+10535,Other or Unknown,Belgium,Uccle
+10536,Other or Unknown,Brazil,Rio De Janeiro
+10537,Other or Unknown,Brazil,Sao Paulo
+10538,Other or Unknown,Brazil,Sao Paulo
+10539,Other or Unknown,Brazil,Sao Paulo
+10540,Other or Unknown,Brazil,Sao Paulo
+10541,Other or Unknown,Brazil,Sao Paulo
+10542,Other or Unknown,Brazil,Sâo Paulo
+10543,Other or Unknown,Canada,Brossard
+10544,Other or Unknown,Canada,Burnaby
+10545,Other or Unknown,Canada,Calgary
+10546,Other or Unknown,Canada,Calgary
+10547,Other or Unknown,Canada,Cambridge
+10548,Other or Unknown,Canada,Edmonton
+10549,Other or Unknown,Canada,La Prairie
+10550,Other or Unknown,Canada,Milton
+10551,Other or Unknown,Canada,Mississauga
+10552,Other or Unknown,Canada,Montreal
+10553,Other or Unknown,Canada,Montreal
+10554,Other or Unknown,Canada,Montreal
+10555,Other or Unknown,Canada,Montréal
+10556,Other or Unknown,Canada,North York
+10557,Other or Unknown,Canada,Ottawa
+10558,Other or Unknown,Canada,Québec
+10559,Other or Unknown,Canada,Richmond
+10560,Other or Unknown,Canada,Surrey
+10561,Other or Unknown,Canada,Thornhill
+10562,Other or Unknown,Canada,Toronto
+10563,Other or Unknown,Canada,Toronto
+10564,Other or Unknown,Canada,Toronto
+10565,Other or Unknown,Canada,Toronto
+10566,Other or Unknown,China,Hong Kong
+10567,Other or Unknown,China,Taipa
+10568,Other or Unknown,China,Taipa
+10569,Other or Unknown,China,Zhuhai
+10570,Other or Unknown,Costa Rica,Escazu
+10571,Other or Unknown,Costa Rica,Escazú
+10572,Other or Unknown,Croatia,Zagreb
+10573,Other or Unknown,Czech Republic,Plzen
+10574,Other or Unknown,Denmark,Copenhagen
+10575,Other or Unknown,Ethiopia,Addis Ababa
+10576,Other or Unknown,France,La Garenne Colombes
+10577,Other or Unknown,France,Paris
+10578,Other or Unknown,France,Paris
+10579,Other or Unknown,France,Paris
+10580,Other or Unknown,Germany,Munich
+10581,Other or Unknown,Hong Kong,Hong Kong
+10582,Other or Unknown,Hong Kong,Hk
+10583,Other or Unknown,Hong Kong,Hong Kong
+10584,Other or Unknown,Hong Kong,Hong Kong
+10585,Other or Unknown,Hong Kong,Hong Kong
+10586,Other or Unknown,Hong Kong,Hong Kong
+10587,Other or Unknown,Hong Kong,Hong Kong
+10588,Other or Unknown,Hong Kong,Hong Kong
+10589,Other or Unknown,Hong Kong,Hong Kong
+10590,Other or Unknown,Hong Kong,Hong Kong
+10591,Other or Unknown,Hong Kong,Hong Kong
+10592,Other or Unknown,Hong Kong,Hong Kong
+10593,Other or Unknown,Hong Kong,Hong Kong
+10594,Other or Unknown,Hong Kong,Hong Kong
+10595,Other or Unknown,Hong Kong,Hong Kong
+10596,Other or Unknown,Hong Kong,Hong Kong
+10597,Other or Unknown,Hong Kong,Hong Kong Sar
+10598,Other or Unknown,Hong Kong,Hung Hom
+10599,Other or Unknown,Hong Kong,Kennedy Town
+10600,Other or Unknown,Hong Kong,Kowloon
+10601,Other or Unknown,Hong Kong,Kowloon
+10602,Other or Unknown,Hong Kong,Midlevels
+10603,Other or Unknown,Hong Kong,New Territories
+10604,Other or Unknown,Hong Kong,Quarry Bay
+10605,Other or Unknown,Hong Kong,Tin Hau
+10606,Other or Unknown,Hong Kong,Tin Shui Wai
+10607,Other or Unknown,Hong Kong,Yuen Long
+10608,Other or Unknown,India,Bangalore
+10609,Other or Unknown,India,Bangalore
+10610,Other or Unknown,India,Bangalore
+10611,Other or Unknown,India,Kolkata
+10612,Other or Unknown,Italy,Ispra
+10613,Other or Unknown,Japan,Chiyoda
+10614,Other or Unknown,Japan,Chuou
+10615,Other or Unknown,Japan,Ichikawa
+10616,Other or Unknown,"Korea, Republic Of",Seoul
+10617,Other or Unknown,Lebanon,Metn
+10618,Other or Unknown,Malaysia,Kuala Lumpur
+10619,Other or Unknown,Mexico,Coacalco
+10620,Other or Unknown,Mexico,Mexico
+10621,Other or Unknown,Mexico,Mexico
+10622,Other or Unknown,Mexico,Mexico City
+10623,Other or Unknown,Mexico,San Pedro
+10624,Other or Unknown,Mexico,San Pedro Garza García
+10625,Other or Unknown,Mexico,Zapopan
+10626,Other or Unknown,Netherlands,Emmen
+10627,Other or Unknown,Nigeria,Lekki Phase 1
+10628,Other or Unknown,Panama,Panama
+10629,Other or Unknown,Peru,Lima
+10630,Other or Unknown,Peru,Lima
+10631,Other or Unknown,Philippines,Pasig City
+10632,Other or Unknown,Philippines,Quezon City
+10633,Other or Unknown,Philippines,Taguig
+10634,Other or Unknown,Portugal,Lisbon
+10635,Other or Unknown,Saudi Arabia,Riyadh
+10636,Other or Unknown,Singapore,Singapore
+10637,Other or Unknown,Singapore,Singapore
+10638,Other or Unknown,Singapore,Singapore
+10639,Other or Unknown,Singapore,Singapore
+10640,Other or Unknown,Singapore,Singapore
+10641,Other or Unknown,Singapore,Singapore
+10642,Other or Unknown,Singapore,Singapore
+10643,Other or Unknown,Singapore,Singapore
+10644,Other or Unknown,Singapore,Singapore
+10645,Other or Unknown,Singapore,Singapore
+10646,Other or Unknown,Singapore,Singapore
+10647,Other or Unknown,Singapore,Singapore
+10648,Other or Unknown,Singapore,Singapore
+10649,Other or Unknown,Singapore,Singapore
+10650,Other or Unknown,Singapore,Singapore
+10651,Other or Unknown,Singapore,Singapore
+10652,Other or Unknown,Singapore,Singapore
+10653,Other or Unknown,Singapore,Singapore
+10654,Other or Unknown,Singapore,Singapore
+10655,Other or Unknown,Singapore,Singapore
+10656,Other or Unknown,Singapore,Singapore
+10657,Other or Unknown,Singapore,Singapore
+10658,Other or Unknown,Singapore,Singapore
+10659,Other or Unknown,Singapore,Singapore
+10660,Other or Unknown,Singapore,Singapore
+10661,Other or Unknown,Singapore,Singapore
+10662,Other or Unknown,Singapore,Singapore
+10663,Other or Unknown,South Africa,Cape Town
+10664,Other or Unknown,South Africa,Sandton
+10665,Other or Unknown,Spain,Barcelona
+10666,Other or Unknown,Spain,España
+10667,Other or Unknown,Spain,Madrid
+10668,Other or Unknown,Spain,Valencia
+10669,Other or Unknown,Sweden,Varberg
+10670,Other or Unknown,Switzerland,Bern
+10671,Other or Unknown,United Arab Emirates,Dubai
+10672,Other or Unknown,United Arab Emirates,Dubai
+10673,Other or Unknown,United Kingdom,Banbury
+10674,Other or Unknown,United Kingdom,Bracknell
+10675,Other or Unknown,United Kingdom,Haslemere
+10676,Other or Unknown,United Kingdom,Hawick
+10677,Other or Unknown,United Kingdom,London
+10678,Other or Unknown,United Kingdom,London
+10679,Other or Unknown,United Kingdom,London
+10680,Other or Unknown,United Kingdom,London
+10681,Other or Unknown,United Kingdom,London
+10682,Other or Unknown,United Kingdom,London
+10683,Other or Unknown,United Kingdom,London
+10684,Other or Unknown,United Kingdom,London
+10685,Other or Unknown,United Kingdom,London
+10686,Other or Unknown,United Kingdom,Plymouth
+10687,Other or Unknown,United Kingdom,Poole
+10688,Other or Unknown,United Kingdom,Surrey
+10689,Other or Unknown,United Kingdom,Tonbridge
+10690,Other or Unknown,United States,Addison
+10691,Other or Unknown,United States,Alexandria
+10692,Other or Unknown,United States,Ankeny
+10693,Other or Unknown,United States,Antioch
+10694,Other or Unknown,United States,Arlignton
+10695,Other or Unknown,United States,Arlington
+10696,Other or Unknown,United States,Ashton
+10697,Other or Unknown,United States,Atlanta
+10698,Other or Unknown,United States,Aurora
+10699,Other or Unknown,United States,Austin
+10700,Other or Unknown,United States,Ayer
+10701,Other or Unknown,United States,Babylon
+10702,Other or Unknown,United States,Bakersfield
+10703,Other or Unknown,United States,Baltimore
+10704,Other or Unknown,United States,Boston
+10705,Other or Unknown,United States,Boston
+10706,Other or Unknown,United States,Braintree
+10707,Other or Unknown,United States,Brookline
+10708,Other or Unknown,United States,Brooklyn
+10709,Other or Unknown,United States,Butler
+10710,Other or Unknown,United States,Canton
+10711,Other or Unknown,United States,Carlsbad
+10712,Other or Unknown,United States,Carlsbad
+10713,Other or Unknown,United States,Carlsbad
+10714,Other or Unknown,United States,Carmel
+10715,Other or Unknown,United States,Carrboro
+10716,Other or Unknown,United States,Carrollton
+10717,Other or Unknown,United States,Casper
+10718,Other or Unknown,United States,Chandler
+10719,Other or Unknown,United States,Charlotte
+10720,Other or Unknown,United States,Chatham
+10721,Other or Unknown,United States,Chesapeake
+10722,Other or Unknown,United States,Chestnut Hill
+10723,Other or Unknown,United States,Chicago
+10724,Other or Unknown,United States,Chicago
+10725,Other or Unknown,United States,Chicago
+10726,Other or Unknown,United States,Chicago
+10727,Other or Unknown,United States,Collierville
+10728,Other or Unknown,United States,Columbia
+10729,Other or Unknown,United States,Dallas
+10730,Other or Unknown,United States,Darien
+10731,Other or Unknown,United States,Denver
+10732,Other or Unknown,United States,Doral
+10733,Other or Unknown,United States,Edina
+10734,Other or Unknown,United States,Escondido
+10735,Other or Unknown,United States,Eugene
+10736,Other or Unknown,United States,Fairfax
+10737,Other or Unknown,United States,Fairfield
+10738,Other or Unknown,United States,Falls Church
+10739,Other or Unknown,United States,Fayetteville
+10740,Other or Unknown,United States,Fort Knox
+10741,Other or Unknown,United States,Fort Lauderdale
+10742,Other or Unknown,United States,Fort Worth
+10743,Other or Unknown,United States,Franklin Park
+10744,Other or Unknown,United States,Fredericksburg
+10745,Other or Unknown,United States,Frisco
+10746,Other or Unknown,United States,Front Royal
+10747,Other or Unknown,United States,Greenbelt
+10748,Other or Unknown,United States,Hartford
+10749,Other or Unknown,United States,Hayward
+10750,Other or Unknown,United States,Herndon
+10751,Other or Unknown,United States,Highland
+10752,Other or Unknown,United States,Hoboken
+10753,Other or Unknown,United States,Homer Glen
+10754,Other or Unknown,United States,Huntsville
+10755,Other or Unknown,United States,Huntsville
+10756,Other or Unknown,United States,Indianapolis
+10757,Other or Unknown,United States,Irvine
+10758,Other or Unknown,United States,Irvine
+10759,Other or Unknown,United States,Ithaca
+10760,Other or Unknown,United States,Jersey City
+10761,Other or Unknown,United States,Kansas City
+10762,Other or Unknown,United States,Las Cruces
+10763,Other or Unknown,United States,Ledyard
+10764,Other or Unknown,United States,Lexington
+10765,Other or Unknown,United States,Lithia
+10766,Other or Unknown,United States,Lorton
+10767,Other or Unknown,United States,Los Angeles
+10768,Other or Unknown,United States,Mansfield
+10769,Other or Unknown,United States,Mckinney
+10770,Other or Unknown,United States,Mckinney
+10771,Other or Unknown,United States,Memphis
+10772,Other or Unknown,United States,Metuchen
+10773,Other or Unknown,United States,Miami
+10774,Other or Unknown,United States,Miami Beach
+10775,Other or Unknown,United States,Morgantown
+10776,Other or Unknown,United States,Nashville
+10777,Other or Unknown,United States,New Britain
+10778,Other or Unknown,United States,New York
+10779,Other or Unknown,United States,New York
+10780,Other or Unknown,United States,New York
+10781,Other or Unknown,United States,New York
+10782,Other or Unknown,United States,New York
+10783,Other or Unknown,United States,Newark
+10784,Other or Unknown,United States,North Caldwell
+10785,Other or Unknown,United States,North Kansas City
+10786,Other or Unknown,United States,North Potomac
+10787,Other or Unknown,United States,North Providence
+10788,Other or Unknown,United States,Okemos
+10789,Other or Unknown,United States,Park City
+10790,Other or Unknown,United States,Pembroke Pines
+10791,Other or Unknown,United States,Phoenix
+10792,Other or Unknown,United States,Pine Plains
+10793,Other or Unknown,United States,Pittsford
+10794,Other or Unknown,United States,Port St Lucie
+10795,Other or Unknown,United States,Portland
+10796,Other or Unknown,United States,Rancho Murieta
+10797,Other or Unknown,United States,Redwood City
+10798,Other or Unknown,United States,Reston
+10799,Other or Unknown,United States,Rochester Hills
+10800,Other or Unknown,United States,Rumford
+10801,Other or Unknown,United States,Rye
+10802,Other or Unknown,United States,Sacramento
+10803,Other or Unknown,United States,Salt Lake City
+10804,Other or Unknown,United States,Sammamish
+10805,Other or Unknown,United States,San Diego
+10806,Other or Unknown,United States,San Francisco
+10807,Other or Unknown,United States,San Francisco
+10808,Other or Unknown,United States,San Francisco
+10809,Other or Unknown,United States,San Jose
+10810,Other or Unknown,United States,San Jose
+10811,Other or Unknown,United States,San Mateo
+10812,Other or Unknown,United States,Scottsdale
+10813,Other or Unknown,United States,Somerville
+10814,Other or Unknown,United States,St. Louis
+10815,Other or Unknown,United States,Stirling
+10816,Other or Unknown,United States,Sunnyvale
+10817,Other or Unknown,United States,Sunnyvale
+10818,Other or Unknown,United States,Sunnyvale
+10819,Other or Unknown,United States,Swissvale
+10820,Other or Unknown,United States,Tampa
+10821,Other or Unknown,United States,Taylors
+10822,Other or Unknown,United States,Tinley Park
+10823,Other or Unknown,United States,Vienna
+10824,Other or Unknown,United States,Vienna
+10825,Other or Unknown,United States,Washington
+10826,Other or Unknown,United States,Washington
+10827,Other or Unknown,United States,Washington
+10828,Other or Unknown,United States,Wauwatosa
+10829,Other or Unknown,United States,Waxhaw
+10830,Other or Unknown,United States,Wellington
+10831,Other or Unknown,United States,West Jordan
+10832,Other or Unknown,United States,West Linn
+10833,Other or Unknown,United States,Westerly
+10834,Other or Unknown,United States,Whitehouse Station
+10835,Other or Unknown,United States,Wichita
+10836,Other or Unknown,United States,Woodside
+10837,Other or Unknown,United States,Worcester
+10838,Public Sector,Brazil,Brasilia
+10839,Public Sector,Canada,North York
+10840,Public Sector,Canada,Toronto
+10841,Public Sector,Guatemala,Guatemala
+10842,Public Sector,Hong Kong,Hong Kong
+10843,Public Sector,Hong Kong,Hong Kong
+10844,Public Sector,India,New Delhi
+10845,Public Sector,Italy,Vicenza
+10846,Public Sector,Mexico,Mexico City
+10847,Public Sector,Netherlands,The Hague
+10848,Public Sector,Singapore,Singapore
+10849,Public Sector,Singapore,Singapore
+10850,Public Sector,United Arab Emirates,Abu Dhabi
+10851,Public Sector,United Kingdom,London
+10852,Public Sector,United States,Bowie
+10853,Public Sector,United States,Evans
+10854,Public Sector,United States,Gaithersburg
+10855,Public Sector,United States,Highland Falls
+10856,Public Sector,United States,Marietta
+10857,Public Sector,United States,Ocala
+10858,Public Sector,United States,Sacramento
+10859,Public Sector,United States,San Francisco
+10860,Public Sector,United States,Silver Spring
+10861,Public Sector,United States,Sringfield
+10862,Public Sector,United States,Washington
+10863,Public Sector,United States,Washington
+10864,Real Estate,Brazil,São Paulo
+10865,Real Estate,Brazil,São Paulo
+10866,Real Estate,France,Fontenay Aux Roses
+10867,Real Estate,United Kingdom,London
+10868,Real Estate,United Kingdom,London
+10869,Real Estate,United States,Houston
+10870,Real Estate,United States,Providence
+10871,Retail,Hong Kong,Hong Kong
+10872,Retail,Hong Kong,North Point
+10873,Retail,Hong Kong,Shatin
+10874,Retail,Hong Kong,Tai Hang
+10875,Retail,Italy,Busto Arsizio
+10876,Retail,Mexico,Ciudad De México
+10877,Retail,Netherlands,Diemen
+10878,Retail,Singapore,Singapore
+10879,Retail,United Arab Emirates,Dubai
+10880,Retail,United States,Ayer
+10881,Retail,United States,Fremont
+10882,Retail,United States,Grand Rapids
+10883,Retail,United States,Irvine
+10884,Retail,United States,Portland
